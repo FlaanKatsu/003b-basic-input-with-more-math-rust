@@ -1,4 +1,4 @@
-## SDSS Computing Studies Python Assignment
+## SDSS Computing Studies Rust Self Assignment
 ### Assignment #3b More Input() (Total Marks 10)
 
 Objectives:
